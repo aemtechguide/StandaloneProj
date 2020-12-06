@@ -10,7 +10,7 @@ import com.standalone.aem.connect.Login;
 /**
  * The Class ReadChildNodes.
  * 
- * @author sudheerdvn
+ * @author kumar
  */
 public class ReadChildNodes {
 

@@ -10,7 +10,7 @@ import org.apache.jackrabbit.commons.JcrUtils;
 /**
  * The Class Login.
  * 
- * @author sudheerdvn
+ * @author kumar
  */
 public class Login {
 

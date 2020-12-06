@@ -10,7 +10,7 @@ import com.standalone.aem.connect.Login;
 /**
  * The Class CreateNodeHeirarchy. Simple standalone class to create some pages
  * 
- * @author sudheerdvn
+ * @author kumar
  */
 public class CreateNodeHeirarchy {
 
